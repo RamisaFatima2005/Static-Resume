@@ -12,17 +12,17 @@ body{
   
   .profile-container {
     display: flex;
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
-    height: 200px; /* Set the height of the container */
-    width: 200px; /* Set the width of the container */
+    justify-content: center;
+    align-items: center; 
+    height: 200px; 
+    width: 200px; 
 }
 
 .profile-pic {
-    width: 200px; /* Adjust size of profile picture */
+    width: 200px; 
     height: 200px;
-    border-radius: 50%; /* Make image circular */
-    object-fit: cover; /* Ensures image covers the circular area */
+    border-radius: 50%; 
+    object-fit: cover; 
     margin-left: 40%;
 }
 
@@ -49,12 +49,12 @@ body{
 }
 
 .contact-icons i {
-  margin-right: 8px;  /* Adds space between icon and text */
-  font-size: 18px;    /* Size of the icons */
+  margin-right: 8px; 
+  font-size: 18px;   
 }
 
 .contact-icons a:hover {
-  color: #020202;  /* LinkedIn blue for hover effect */
+  color: #020202;  
 }
 
 .hidden{
